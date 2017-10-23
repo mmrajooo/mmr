@@ -1,18 +1,17 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: http://www.rajwadkar.net
+projectUrl: mmr
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Mayuresh Rajwadkar
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  profession: Semiconductors, Business, Linux Architect
+  location: Boston 
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
+  email: m.m.rajwadkar@ieee.org
+  site: http://www.rajwadkar.net/mmr
+  linkedin: /mayur0122
+  twitter: /MayurRajwadkar
 
 career:
  - position: Foot Clan Antagonist
